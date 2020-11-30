@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FintnessTask</string>
+    <string name="tab_text_1">Offers</string>
+    <string name="tab_text_2">Details</string>
+</resources>
